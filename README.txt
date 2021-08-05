@@ -10,6 +10,11 @@ Mod Usage
 -Right-click mod to configure where settings for lightdash and navigation
 
 ------------------------------------------------------------
+Know Issues
+------------------------------------------------------------
+-Due to the sound files limitation of Sonic Generations, if you notice some sound effects or background music not playing in a level mod, that means it has reached the sound file limit and it does not support this mod until the creator reduce the number of sound file a level uses. (For example Spagonia Adventure Pack Act 1-2)
+
+------------------------------------------------------------
 Credits
 ------------------------------------------------------------
 brianuuu - Main Developer
