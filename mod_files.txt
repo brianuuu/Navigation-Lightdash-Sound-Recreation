@@ -1,0 +1,4 @@
+add ConfigSchema.json
+add mod.ini
+add NavigationLightdashSound.dll
+add README.txt

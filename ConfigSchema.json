@@ -1,0 +1,112 @@
+{
+   "Groups":[
+      {
+         "Name":"Config",
+         "DisplayName":"Lightdash Settings",
+         "Elements":[
+            {
+               "Name":"bLightdash",
+               "Description":[
+                  "Enable Lightdash Sound Effect"
+               ],
+               "DisplayName":"Enable Lightdash Sound Effect",
+               "Type":"bool",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":true
+            },
+            {
+               "Name":"bLightdashPrompt",
+               "Description":[
+                  "Enable Lightdash Navigation Prompt"
+               ],
+               "DisplayName":"Enable Lightdash Navigation Prompt",
+               "Type":"bool",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":true
+            },
+            {
+               "Name":"bLightdashEffect",
+               "Description":[
+                  "Enable Lightdash Particle Effect"
+               ],
+               "DisplayName":"Enable Lightdash Particle Effect",
+               "Type":"bool",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":true
+            },
+            {
+               "Name":"bLightdashRings",
+               "Description":[
+                  "Enable Lightdash on All Rings, this includes disable particle effects from Rings"
+               ],
+               "DisplayName":"Enable Lightdash on All Rings",
+               "Type":"bool",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":false
+            },
+         ]
+      },
+	  {
+         "Name":"Config",
+         "DisplayName":"Navigation Settings",
+         "Elements":[
+            {
+               "Name":"bNavigation",
+               "Description":[
+                  "Enable Navigation Sound Effect"
+               ],
+               "DisplayName":"Enable Navigation Sound Effect",
+               "Type":"bool",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":true
+            },
+            {
+               "Name":"nNavSoundType",
+               "Description":[
+                  "Choose the navigation sound style"
+               ],
+               "DisplayName":"Navigation Sound Type",
+               "Type":"SoundEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"0"
+            },
+            {
+               "Name":"bBumperRailSwitch",
+               "Description":[
+                  "Use Bumpers to Swtich Grind Rails (this also include navigation prompt for Stick move to change to bumpers)"
+               ],
+               "DisplayName":"Switch Rails w/ Bumpers (Inc. Nav Change)",
+               "Type":"bool",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":false
+            },
+         ]
+      }
+   ],
+   "Enums":{
+      "SoundEnum":[
+         {
+            "DisplayName":"Sonic Unleashed",
+            "Description":[
+               "Use navigation sound effect from Sonic Unleashed"
+            ],
+            "Value":"0"
+         },
+         {
+            "DisplayName":"Sonic Generations 3DS",
+            "Description":[
+               "Use navigation sound effect from Sonic Generations 3DS"
+            ],
+            "Value":"1"
+         }
+      ],
+   },
+   "IniFile":"mod.ini"
+}
