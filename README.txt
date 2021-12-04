@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod---------------------------
-----------------Navigation & Lightdash Sound Recreation v1.4---------------
+----------------Navigation & Lightdash Sound Recreation v1.5---------------
 
 This mod recreates the navigation hint and lightdash sound/particle effect from Sonic Unleashed!
 

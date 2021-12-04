@@ -1,3 +1,7 @@
+## Navigation & Lightdash Sound Recreation v1.5
+
+- Update "Use Bumpers to Switch Grind Rails" code to check for bumper press instead of holding
+
 ## Navigation & Lightdash Sound Recreation v1.4
 
 - Added option to enable lightdash particle effect from Unleashed
