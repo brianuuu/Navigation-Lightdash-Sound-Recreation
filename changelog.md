@@ -1,3 +1,9 @@
+## Navigation & Lightdash Sound Recreation v1.7
+
+- Redone code to match current coding standard
+- Properly handle rail switch navigation with less code hack
+
+
 ## Navigation & Lightdash Sound Recreation v1.6
 
 - Revert changes from v1.5
